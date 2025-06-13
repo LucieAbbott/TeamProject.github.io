@@ -25,7 +25,7 @@
   <h2>Our Story</h2>
   <a href="edwar369">Meet Our Team</a>
   <br>
-  <a href="emchristman">Services We Offer</a>
+ 
   <br>
   <a href="lucieabbott">Our Products</a>
   <br>
@@ -47,7 +47,7 @@
   </section>
 
   <section>
-    <h2>What We Offer</h2>
+    <h2><a href="emchristman">Services We Offer</a></h2>
     <ul>
       <li>General Contracting</li>
       <li>Project Management</li>
