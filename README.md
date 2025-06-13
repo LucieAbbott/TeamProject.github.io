@@ -21,11 +21,6 @@
   </header>
 
   <section>
-
-  <h2>Our Story</h2>
-  <br>
-  <a href="GavinBudd">Customer Testimonials</a>
-  
   <h2>Our Story</h2>
     <p class="intro"><strong>Tekton</strong> is a <em>leading</em> provider of construction solutions. Since our founding in <span style="font-weight:bold; text-decoration:underline;">1995</span>, we&#39;ve delivered quality <span style="color:blue;">materials</span> and expert <span style="color:red;">services</span> across the region.</p>
     <p class="highlight">Built on a passion for innovation and a commitment to excellence, our team combines traditional craftsmanship with modern technology.</p>
@@ -55,18 +50,20 @@
  <section>
     <h2><a href="lucieabbott">Our Products</a></h2>
     <ul>
-      <li>General Contracting</li>
-      <li>Renovations and Remodeling</li>
-      <li>Project Management and Consulting</li>
-      <li>Commercial and Residential Construction</li>
-      <li>Landscaping Services</li>
+      <li>Personal Tools and Products</li>
+      <li>Professional Tools</li>
+      <li>Safety Equipment</li>
+      <li>Professional Materials</li>
+      <br>
+      <p>Click "Our Products" to learn more</p>
     </ul>
   </section>
 
   <section>
     <h2>Learn More</h2>
+    <p><a href="edwar369"> Click here to Meet Our Management Team</a></p>
+   <p></p><a href="GavinBudd">Click here to learn about Customer Testimonials</a></p>
     <p>Discover the art of building on <a href="https://en.wikipedia.org/wiki/Construction" target="_blank" class="external">Wikipedia</a>.</p>
-    <p><a href="edwar369">Meet Our Management Team</a></p>
   </section>
 
   <section>
