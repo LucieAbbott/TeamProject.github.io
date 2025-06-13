@@ -37,7 +37,7 @@
   </section>
 
   <section>
-    <h2><a href="emchristman">Services We Offer</a></h2>
+    <h2><a href="emchristman.md">Services We Offer</a></h2>
     <ul>
       <li>General Contracting</li>
       <li>Renovations and Remodeling</li>
@@ -48,7 +48,7 @@
   </section>
   
  <section>
-    <h2><a href="lucieabbott">Our Products</a></h2>
+    <h2><a href="lucieabbott.md">Our Products</a></h2>
     <ul>
       <li>Personal Tools and Products</li>
       <li>Professional Tools</li>
@@ -61,8 +61,8 @@
 
   <section>
     <h2>Learn More</h2>
-    <p><a href="edwar369"> Click here to Meet Our Management Team</a></p>
-   <p></p><a href="GavinBudd">Click here to learn about Customer Testimonials</a></p>
+    <p><a href="edwar369.md"> Click here to Meet Our Management Team</a></p>
+   <p></p><a href="GavinBudd.md">Click here to learn about Customer Testimonials</a></p>
     <p>Discover the art of building on <a href="https://en.wikipedia.org/wiki/Construction" target="_blank" class="external">Wikipedia</a>.</p>
   </section>
 
