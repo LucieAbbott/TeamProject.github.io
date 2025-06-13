@@ -21,10 +21,10 @@
   </header>
 
   <section>
-    <a href="edwar369.html">Meet Our Team</a>
-    <a href="emchristman.html">Services We Offer</a>
-    <a href="lucieabbott.html">Our Products</a>
-    <a href="GavinBudd.html">Customer Testimonials</a>
+    <a href="eedwar369">Meet Our Team</a>
+    <a href="emchristman">Services We Offer</a>
+    <a href="lucieabbott">Our Products</a>
+    <a href="GavinBudd">Customer Testimonials</a>
   
     <h2>Our Story</h2>
     <p class="intro"><strong>Tekton</strong> is a <em>leading</em> provider of construction solutions. Since our founding in <span style="font-weight:bold; text-decoration:underline;">1995</span>, we&#39;ve delivered quality <span style="color:blue;">materials</span> and expert <span style="color:red;">services</span> across the region.</p>
