@@ -48,7 +48,7 @@
   </section>
   
  <section>
-    <h2><a href="lucieabbott.html">Our Products</a></h2>
+    <h2><a href="lucieabbott.md">Our Products</a></h2>
     <ul>
       <li>Personal Tools and Products</li>
       <li>Professional Tools</li>
