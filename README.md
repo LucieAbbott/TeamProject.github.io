@@ -23,11 +23,6 @@
   <section>
 
   <h2>Our Story</h2>
-  <a href="edwar369">Meet Our Team</a>
-  <br>
- 
-  <br>
-  <a href="lucieabbott">Our Products</a>
   <br>
   <a href="GavinBudd">Customer Testimonials</a>
   
@@ -50,15 +45,28 @@
     <h2><a href="emchristman">Services We Offer</a></h2>
     <ul>
       <li>General Contracting</li>
-      <li>Project Management</li>
-      <li>Custom Fabrication</li>
-      <li>Sustainability Consulting</li>
+      <li>Renovations and Remodeling</li>
+      <li>Project Management and Consulting</li>
+      <li>Commercial and Residential Construction</li>
+      <li>Landscaping Services</li>
+    </ul>
+  </section>
+  
+ <section>
+    <h2><a href="lucieabbott">Our Products</a></h2>
+    <ul>
+      <li>General Contracting</li>
+      <li>Renovations and Remodeling</li>
+      <li>Project Management and Consulting</li>
+      <li>Commercial and Residential Construction</li>
+      <li>Landscaping Services</li>
     </ul>
   </section>
 
   <section>
     <h2>Learn More</h2>
     <p>Discover the art of building on <a href="https://en.wikipedia.org/wiki/Construction" target="_blank" class="external">Wikipedia</a>.</p>
+    <p><a href="edwar369">Meet Our Management Team</a></p>
   </section>
 
   <section>
