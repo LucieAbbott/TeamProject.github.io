@@ -21,7 +21,8 @@
   </header>
 
   <section>
-    
+
+  <h2>Our Story</h2>
   <a href="edwar369">Meet Our Team</a>
   <br>
   <a href="emchristman">Services We Offer</a>
