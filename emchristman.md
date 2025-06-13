@@ -68,7 +68,12 @@
      <br>
    <font size = "2"> Click this <a href = "mailto:chris351@purdue.edu">link</a> to contact us with any questions. We recommend that you are up to date on the latest building code rules in your area before contacting us. The Indiana Building Code Rules can be found <a href = "https://www.in.gov/library/collections-and-services/indiana/subject-guides-to-indiana-collection-materials/indiana-building-code-rules/" target = "_blank"> here.</a></font>
 <br>
-<font size = "2"><p><b>This page was last modified:</b> <script>document.write(document.lastModified);</script></p></font>
+ <font size = "2"><i><div id = "datemodified"></div>
+    <script>
+    var date = document.lastModified;
+    document.getElementById("datemodified").innerHTML = "This page was last modified on " +date;
+  </script>
+  </i></font>
    </div>
 </body>
 </html>
